@@ -1,4 +1,4 @@
-# Scrabble Game (Java)
+# Scrabble Game
 
 ## Overview
 This project is a GUI based Scrabble game implemented in Java using the Swing Library and follows the MVC pattern.  

@@ -110,7 +110,7 @@ The UML documentation illustrates the structure and behavior of the system.
 - **Sequence Diagram:** Demonstrates the flow of important scenarios  
 
 
-## 3. Documentation (further explained in documentation document)
+## 3. Documentation
 
 ### Design Decisions
 - **Board:** Implemented as a 2D `char[][]` array for efficient random access and easy visualization of positions.  

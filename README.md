@@ -1,9 +1,7 @@
 # Scrabble Game
 
 ## Overview
-This project is a GUI based Scrabble game implemented in Java using the Swing Library and follows the MVC pattern.  
-It demonstrates object-oriented programming principles including encapsulation, modularity, and composition.  
-The system allows multiple players to take turns placing words on a shared board, validates them using a dictionary, and calculates scores based on Scrabble letter values.
+This project is a GUI based Scrabble game implemented in Java using the Swing Library and follows the MVC pattern. It demonstrates object-oriented programming principles including encapsulation, modularity, and composition. The system allows multiple players to take turns placing words on a shared board, validates them using a dictionary, and calculates scores based on Scrabble letter values.
 
 The repository includes the following deliverables:
 1. Source Code  

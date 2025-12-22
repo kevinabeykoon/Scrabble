@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<board>
+    <multiplier type="word" x="0" y="0" value="3"/>
+    <multiplier type="word" x="0" y="14" value="3"/>
+    <multiplier type="word" x="14" y="0" value="3"/>
+    <multiplier type="word" x="14" y="14" value="3"/>
+    <multiplier type="word" x="7" y="7" value="2"/>
+    <multiplier type="word" x="3" y="3" value="2"/>
+    <multiplier type="word" x="3" y="11" value="2"/>
+    <multiplier type="word" x="11" y="3" value="2"/>
+    <multiplier type="word" x="11" y="11" value="2"/>
+    <multiplier type="letter" x="5" y="5" value="3"/>
+    <multiplier type="letter" x="5" y="9" value="3"/>
+    <multiplier type="letter" x="9" y="5" value="3"/>
+    <multiplier type="letter" x="9" y="9" value="3"/>
+    <multiplier type="letter" x="6" y="6" value="2"/>
+    <multiplier type="letter" x="6" y="8" value="2"/>
+    <multiplier type="letter" x="8" y="6" value="2"/>
+    <multiplier type="letter" x="8" y="8" value="2"/>
+    <multiplier type="letter" x="0" y="7" value="2"/>
+    <multiplier type="letter" x="7" y="0" value="2"/>
+    <multiplier type="letter" x="7" y="14" value="2"/>
+    <multiplier type="letter" x="14" y="7" value="2"/>
+</board>
